@@ -12,4 +12,4 @@
 	url = https://github.com/madler/zlib.git
 [submodule "librocksdb-sys/rocksdb"]
 	path = librocksdb-sys/rocksdb
-	url = https://github.com/iotaledger/rocksdb
+	url = https://github.com/dpeuscher/rocksdb
